@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  🧠 Full Stack Engineer • AI Architect in Progress • Flutter Developer
+  🧠 Full Stack Engineer • AI Architect in Progress • Flutter Developer • Vibe Coder
 </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Designing+AI-Powered+Applications;Full+Stack+Product+Engineering;Exploring+Deep+Learning+Architectures" />
@@ -79,6 +79,7 @@ class Engineer:
             "Model Deployment",
             "Flutter + REST Integration",
             "Production-Grade Code Quality"
+            "Vibe Coder & Model Finetuner"
         ]
 
     def mission(self):
